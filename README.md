@@ -19,6 +19,7 @@ Jaeyoung Kim
 4) Typle in the command lines like the example below.
 
 5) Command examples
+
 java -jar sort.jar -sB -th -fpolyfor1.txt
 java -jar sort.jar -sB -th -fpolyfor1.txt
 java -jar sort.jar -sB -th -fpolyfor1.txt
