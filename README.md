@@ -1,4 +1,4 @@
-1. A project title:
+S1. A project title:
 Complexity and Sorting
 
 2. What the program does:
