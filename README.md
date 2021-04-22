@@ -69,11 +69,11 @@ Testing of polyfor1.txt
 
 Types of Shape in polyfor1.txt
 
-| Shape          | Description                                                                                                                                                                                                                              |
-| -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cylinder, Cone | followed by a double value representing the height and another double value representing radius.<br/> e.g. Cylinder 9431.453 4450.123 or Cone 674.2435 652.1534                                                                          |
-| Pyramid        | followed by a double value representing the height and another double value representing edge length.<br/> e.g. Pyramid 6247.53 2923.456                                                                                                 |
-| Prisms         | specified by the type of base polygon (SquarePrism, TrianglarPrism, PentagonalPrism, OctagonalPrism), a double value representing the height and another double value representing edge length. <br/> e.g. SquarePrism 8945.234 3745.334 |
+| Shape          | Description                                                                                                                                                                                     | Example                                             |
+| -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- |
+| Cylinder, Cone | followed by a double value representing the height and another double value representing radius.                                                                                                | Cylinder 9431.453 4450.123 / Cone 674.2435 652.1534 |
+| Pyramid        | followed by a double value representing the height and another double value representing edge length.                                                                                           | Pyramid 6247.53 2923.456                            |
+| Prisms         | specified by the type of base polygon (SquarePrism, TrianglarPrism, PentagonalPrism, OctagonalPrism), a double value representing the height and another double value representing edge length. | SquarePrism 8945.234 3745.334                       |
 
 <br/>
 
