@@ -79,7 +79,7 @@ Types of Shape in polyfor1.txt
 
 > Result of testing polyfor1.txt
 
-![ResultExample](https://github.com/Jaeyoung-Kim-Dev/Sorting-Out-Sorting/blob/main/img/exampleResult.jpg?raw=true)
+![ResultExample](./img/exampleResult.jpg?raw=true)
 
 ## Author
 
